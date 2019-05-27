@@ -28,6 +28,7 @@ public class LoginPageTest extends TestBase {
 	@Test
 	public void verifyTitleTest()
 	{
+		//Hello
 		String title = loginPage.verifyTitle();
 		//Assert.assertEquals(title, "Facebook – log in or sign up");
 	}
