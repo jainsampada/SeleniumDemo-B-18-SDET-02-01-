@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35704" started-at="2019-02-09T12:48:46Z" finished-at="2019-02-09T12:49:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35704" started-at="2019-02-09T12:48:46Z" finished-at="2019-02-09T12:49:21Z">
+      <class name="com.facebook.TestCases.SignUpPageTest">
+        <test-method status="PASS" signature="signup()[pri:0, instance:com.facebook.TestCases.SignUpPageTest@101b7af]" name="signup" duration-ms="8894" started-at="2019-02-09T12:49:12Z" finished-at="2019-02-09T12:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+      </class> <!-- com.facebook.TestCases.SignUpPageTest -->
+      <class name="com.facebook.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.facebook.TestCases.LoginPageTest@d25987]" name="setUp" is-config="true" duration-ms="28824" started-at="2019-02-09T12:48:17Z" finished-at="2019-02-09T12:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:0, instance:com.facebook.TestCases.LoginPageTest@d25987]" name="verifyTitleTest" duration-ms="40" started-at="2019-02-09T12:48:46Z" finished-at="2019-02-09T12:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="verifyLoginTest()[pri:0, instance:com.facebook.TestCases.LoginPageTest@d25987]" name="verifyLoginTest" duration-ms="26629" started-at="2019-02-09T12:48:46Z" finished-at="2019-02-09T12:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebook.TestCases.LoginPageTest@d25987]" name="tearDown" is-config="true" duration-ms="1779" started-at="2019-02-09T12:49:21Z" finished-at="2019-02-09T12:49:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.TestCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

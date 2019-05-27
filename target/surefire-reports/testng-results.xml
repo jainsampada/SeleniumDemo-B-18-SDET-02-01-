@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32312" started-at="2019-02-09T12:43:19Z" finished-at="2019-02-09T12:43:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32312" started-at="2019-02-09T12:43:19Z" finished-at="2019-02-09T12:43:51Z">
+      <class name="com.facebook.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.facebook.TestCases.LoginPageTest@1690630]" name="setUp" is-config="true" duration-ms="55010" started-at="2019-02-09T12:42:24Z" finished-at="2019-02-09T12:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:0, instance:com.facebook.TestCases.LoginPageTest@1690630]" name="verifyTitleTest" duration-ms="1530" started-at="2019-02-09T12:43:20Z" finished-at="2019-02-09T12:43:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="verifyLoginTest()[pri:0, instance:com.facebook.TestCases.LoginPageTest@1690630]" name="verifyLoginTest" duration-ms="29756" started-at="2019-02-09T12:43:21Z" finished-at="2019-02-09T12:43:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.facebook.TestCases.LoginPageTest@1690630]" name="tearDown" is-config="true" duration-ms="1473" started-at="2019-02-09T12:43:56Z" finished-at="2019-02-09T12:43:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.facebook.TestCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
